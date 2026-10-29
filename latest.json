@@ -1,0 +1,19 @@
+{
+  "version": "0.2.42",
+  "notes": "SMB support for Windows shares and NAS devices, and uploads straight from the Explorer or Finder.",
+  "pub_date": "2026-10-29T16:15:09.699Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdTE5UUE1dTRFNGRRZEdUNVRSYzM5QWxaM3JTRSt4bnRVQVJoOFlmeEYyZVc1SWVDL08zVG8wZnVya2Q3REJtQzhPNFdBQzFJZ0FVVG9JV0ZELzJldDN2SHR3U2F4emdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkwNDMyCWZpbGU6Qml0Y3JhbmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40MgpVem0yOVQ3VWpoTFNtUGRIWmFTM3k5YjRaYXdFcXEwN0pQTWhtQXk2MEQ0Y25RblNzaUhWSFZqNDVCV09STHkvUEtCTUVUandXTUtKU2RqYjdzcnlCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Raccoon-Works/bitcrane-releases/main/Bitcrane_0.2.42_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdTE5UUE1dTRFNGRRZEdUNVRSYzM5QWxaM3JTRSt4bnRVQVJoOFlmeEYyZVc1SWVDL08zVG8wZnVya2Q3REJtQzhPNFdBQzFJZ0FVVG9JV0ZELzJldDN2SHR3U2F4emdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkwNDMyCWZpbGU6Qml0Y3JhbmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40MgpVem0yOVQ3VWpoTFNtUGRIWmFTM3k5YjRaYXdFcXEwN0pQTWhtQXk2MEQ0Y25RblNzaUhWSFZqNDVCV09STHkvUEtCTUVUandXTUtKU2RqYjdzcnlCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Raccoon-Works/bitcrane-releases/main/Bitcrane_0.2.42_universal.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdTE5UUE1dTRFNGZ5QjFSUFdLYlNzWnhlK01pUjYweXQxZ3plZFRhdGJoSWRzLzl3SnRybVhkZWJQZFdpWnF0SkZiY1N0cUFRa3JERjUybUdoRGR4NGtrRkhZcU1NS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkwNDQxCWZpbGU6Qml0Y3JhbmVfMC4yLjQyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNDIKVytqYm85bGVSbE5LRG5PNUdlMlR2UW9pMk5aK01IbnhXWEVVazZpZEF1ODJNczlldUxtcDIwWTBoUHMwbDNxOWxxaGNjSSsrczh1WWV4WmJ1VHdGQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/Raccoon-Works/bitcrane-releases/main/Bitcrane_0.2.42_x64-setup.exe"
+    }
+  }
+}
